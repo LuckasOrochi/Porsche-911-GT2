@@ -5,6 +5,10 @@
     padding: 10px 0;
 }
 
+.cabecalho-imagem {
+    width: 10%;
+}
+
 .section1 {
     background-color: burlywood;
 }
