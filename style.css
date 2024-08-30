@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #EBA95B;
+    background-color: #000000;
     color: black;
     display: flex;
     padding: 10px 0;
@@ -10,7 +10,7 @@
 }
 
 .section1 {
-    background-color: burlywood;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
 }
 
